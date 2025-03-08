@@ -47,7 +47,7 @@ Ensure the following files exist in the same directory as the script:
 
 ### **2. Run the Script**
 Execute the script:
-python 2b_transformer_public.py
+python 2_transformer.py
 
 
 ### **3. Output**
